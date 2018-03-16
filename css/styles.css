@@ -40,6 +40,9 @@ img {
   width: 50%;
 }
 
+.about h2 {
+    border-bottom: 1px solid #EB7B59;
+}
 .banner p {
   text-align: center;
 }
@@ -48,4 +51,12 @@ img {
   width: 80%;
   background-color: #E5DDCB;
   height: auto;
+}
+
+.project-list h2 {
+  border-bottom: 1px solid #CF4647;
+}
+
+.quote {
+  font-style: italic;
 }
