@@ -60,7 +60,7 @@ img {
 
 /*This section styles the "About Me" section*/
 .about h2 {
-    border-bottom: 1px solid #EB7B59;
+    border-bottom: 2px solid #EB7B59;
     margin-bottom: 15px;
 }
 .about h3 {
@@ -68,6 +68,7 @@ img {
   color: white;
   margin-left: 5%;
   margin-right: 5%;
+  border-bottom: 1px solid #EB7B59;
 }
 .about li {
   color: white;
@@ -90,7 +91,7 @@ img {
   overflow: hidden;
 }
 .project-list h2 {
-  border-bottom: 1px solid #CF4647;
+  border-bottom: 2px solid #CF4647;
   margin-bottom: 15px;
 }
 .portfolio {
