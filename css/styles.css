@@ -32,6 +32,9 @@ img {
   display: block;
   margin: 0 auto;
   width: 50%;
+  padding: 3px;
+  border: 2px solid #A7C5BD;
+  border-radius: 100%;
 }
 /*This section styles the container for all of the content*/
 .container {
@@ -55,17 +58,19 @@ img {
 
 /*This section styles the project section*/
 .project-list {
-  display: block;
-    margin: 0 auto;
+  margin: 0 auto;
 }
 .project-list h2 {
   border-bottom: 1px solid #CF4647;
 }
 .project {
   border: 1px solid #A7C5BD;
-  max-width: 40%;
+  width: 40%;
   background-color: white;
   border-radius: 3px;
+  margin-bottom: 15px;
+  margin-right: 15px;
+  float: left;
 }
 .project h3 {
   text-align: center;
