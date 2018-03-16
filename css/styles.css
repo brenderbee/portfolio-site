@@ -96,7 +96,11 @@ img {
   margin-right: 15px;
 }
 .project img {
+  display: block;
   border-radius: 0;
+  margin: 20px auto;
+  border: 1px solid gray;
+  box-shadow: 1px 1px 1px gray;
 }
 .project p {
   margin-left: 15px;
