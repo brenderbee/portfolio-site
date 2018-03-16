@@ -1,62 +1,76 @@
 body {
   background-color: #524656;
 }
-
 h1  {
   font-family: "Quicksand", serif;
   font-weight: bold;
   text-align: center;
   font-size: 80px;
 }
-
 h2  {
   font-family: "Quicksand", serif;
   font-weight: bold;
   text-align: left;
 }
-
 h3  {
   font-family: "Quicksand", serif;
   font-weight: bold;
   text-align: left;
 }
-
 h4  {
   font-family: "Quicksand", serif;
   font-weight: bold;
   text-align: left;
 }
-
 li {
   font-family: "EB Garamond", serif;
 }
 p {
   font-family: "EB Garamond", serif;
 }
-
 img {
   display: block;
   margin: 0 auto;
   width: 50%;
 }
-
-.about h2 {
-    border-bottom: 1px solid #EB7B59;
-}
-.banner p {
-  text-align: center;
-}
-
+/*This section styles the container for all of the content*/
 .container {
   width: 80%;
   background-color: #E5DDCB;
   height: auto;
 }
+.quote {
+  font-style: italic;
+}
 
+/*This section styles the banner section*/
+.banner p {
+  text-align: center;
+}
+
+/*This section styles the "About Me" section*/
+.about h2 {
+    border-bottom: 1px solid #EB7B59;
+}
+
+/*This section styles the project section*/
+.project-list {
+  display: block;
+    margin: 0 auto;
+}
 .project-list h2 {
   border-bottom: 1px solid #CF4647;
 }
-
-.quote {
-  font-style: italic;
+.project {
+  border: 1px solid #524656;
+  max-width: 40%;
+}
+.project h3 {
+  text-align: center;
+}
+.project h4 {
+  margin-left: 10px;
+}
+.project p {
+  margin-left: 10px;
 }
