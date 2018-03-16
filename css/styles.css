@@ -6,11 +6,13 @@ h2  {
   font-family: "Quicksand", serif;
   font-weight: bold;
   text-align: center;
+  color: white;
 }
 h3  {
   font-family: "Quicksand", serif;
   font-weight: bold;
-  text-align: left;
+  text-align: left
+  color: white;
 }
 h4  {
   font-family: "Quicksand", serif;
@@ -19,6 +21,7 @@ h4  {
 }
 li {
   font-family: "EB Garamond", serif;
+  color: white;
 }
 p {
   font-family: "EB Garamond", serif;
@@ -33,7 +36,7 @@ img {
 /*This section styles the container for all of the content*/
 .container {
   width: 80%;
-  background-color: #E5DDCB;
+  background-color: #090909;
   height: auto;
 }
 .quote {
@@ -42,17 +45,17 @@ img {
 
 /*This section styles jumbotron*/
 .jumbotron {
-  background-color: #524656;
+  background-color: #A7C5BD;
 }
 .jumbotron h1  {
   font-family: "Quicksand", serif;
   font-weight: bold;
   text-align: center;
-  color: white;
+  color: black;
 }
 .jumbotron p {
   text-align: center;
-  color: white;
+  color: black;
 }
 
 /*This section styles the "About Me" section*/
@@ -62,9 +65,11 @@ img {
 }
 .about h3 {
   margin-top: 0;
+  color: white;
 }
 .about p {
   margin-bottom: 30px;
+  color: white;
 }
 
 /*This section styles the project section*/
