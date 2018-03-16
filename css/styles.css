@@ -21,7 +21,6 @@ h4  {
 }
 li {
   font-family: "EB Garamond", serif;
-  color: white;
 }
 p {
   font-family: "EB Garamond", serif;
@@ -45,7 +44,7 @@ img {
 
 /*This section styles jumbotron*/
 .jumbotron {
-  background-color: #A7C5BD;
+  background-color: #36f7c3;
 }
 .jumbotron h1  {
   font-family: "Quicksand", serif;
@@ -66,10 +65,22 @@ img {
 .about h3 {
   margin-top: 0;
   color: white;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.about li {
+  color: white;
 }
 .about p {
   margin-bottom: 30px;
   color: white;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.about ul {
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 30px;
 }
 
 /*This section styles the project section*/
