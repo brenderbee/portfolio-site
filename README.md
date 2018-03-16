@@ -13,7 +13,7 @@ _This is a portfolio landing page for Epicodus Intro to Programming Week 1 Code 
 * _Open and edit files in Atom or other text editor._
 * _Open index.html in web browser._
 
-_bootstrap.css is provided. No other libraries required._
+_bootstrap.css is provided. Fonts.google.com linked in header. No other libraries required._
 
 ## Known Bugs
 
@@ -25,7 +25,8 @@ _Please email Brenda Franco at brenda.leigh.franco@gmail.com for questions._
 
 ## Technologies Used
 
-_This project was created in html, css, and bootstrap v3.3.7.
+_This project was created in html, css, and bootstrap v3.3.7._
+_This project links to google fonts for EB Garamond and Quicksand._
 
 ### License
 
