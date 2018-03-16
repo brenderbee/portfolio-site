@@ -89,7 +89,6 @@ img {
   margin-bottom: 15px;
   margin-right: 15px;
   float: left;
-  box-shadow: 1px 1px 1px gray;
 }
 .project h3 {
   text-align: center;
@@ -106,6 +105,9 @@ img {
   margin: 20px auto;
   border: 1px solid gray;
   box-shadow: 1px 1px 1px gray;
+}
+.project li {
+  color: black;
 }
 .project p {
   margin-left: 15px;
