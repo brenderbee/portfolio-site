@@ -30,7 +30,7 @@ img {
   border: 2px solid white;
   border-radius: 100%;
   display: block;
-  margin: 0 auto;
+  margin: 30px auto;
   width: 30%;
 }
 /*This section styles the container for all of the content*/
@@ -47,7 +47,7 @@ img {
 
 /*This section styles jumbotron*/
 .jumbotron {
-  background-color: #36f7c3;
+  background: linear-gradient(330deg, #e05252 0%, #99e052 25%, #52e0e0 50%, #9952e0 75%, #e05252 100%); /* NOTE: I hated the plain color so I copied this function from http://creative-punch.net/2014/02/colorful-gradient-text-css3/ */
 }
 .jumbotron h1  {
   color: black;
