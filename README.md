@@ -18,7 +18,7 @@ _bootstrap.css is provided. Fonts.google.com linked in header. No other librarie
 
 ## Known Bugs
 
-_No known bugs at this time._
+_Buttons on projects won't stick to the bottom of the flexbox._
 
 ## Support and contact details
 
