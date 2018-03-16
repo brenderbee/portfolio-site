@@ -98,7 +98,6 @@ img {
   display: flex;
 }
 .project {
-  border: 1px solid #A7C5BD;
   width: 40%;
   background-color: white;
   border-radius: 3px;
@@ -131,10 +130,9 @@ img {
   margin-right: 15px;
 }
 .btn {
-  margin-right: 15px;
-  margin-bottom: auto;
-  border-radius: 0px;
+  display: block;
+  margin: 0;
+  border-radius: 0 0 3px 3px;
   background-color: #CF4647;
   border: 1px solid #CF4647;
-  float: right;
 }
