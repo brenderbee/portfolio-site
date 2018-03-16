@@ -1,16 +1,39 @@
+body {
+  background-color: #524656;
+}
+
 h1  {
   font-family: "Quicksand", serif;
   font-weight: bold;
   text-align: center;
   font-size: 80px;
 }
+
+h2  {
+  font-family: "Quicksand", serif;
+  font-weight: bold;
+  text-align: left;
+}
+
+h3  {
+  font-family: "Quicksand", serif;
+  font-weight: bold;
+  text-align: left;
+}
+
+h4  {
+  font-family: "Quicksand", serif;
+  font-weight: bold;
+  text-align: left;
+}
+
+li {
+  font-family: "EB Garamond", serif;
+}
 p {
   font-family: "EB Garamond", serif;
 }
 
-body {
-  background-color: #524656;
-}
 img {
   display: block;
   margin: 0 auto;
