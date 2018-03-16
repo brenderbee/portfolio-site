@@ -3,16 +3,16 @@ body {
 }
 
 h2  {
+  color: white;
   font-family: "Quicksand", serif;
   font-weight: bold;
   text-align: center;
-  color: white;
 }
 h3  {
+  color: white;
   font-family: "Quicksand", serif;
   font-weight: bold;
   text-align: left
-  color: white;
 }
 h4  {
   font-family: "Quicksand", serif;
@@ -26,18 +26,18 @@ p {
   font-family: "EB Garamond", serif;
 }
 img {
+  border: 2px solid white;
+  border-radius: 100%;
   display: block;
   margin: 0 auto;
   width: 30%;
-  border: 2px solid white;
-  border-radius: 100%;
 }
 /*This section styles the container for all of the content*/
 .container {
-  width: 80%;
   background-color: #090909;
   height: auto;
   padding: 0;
+  width: 80%;
 }
 .quote {
   font-style: italic;
@@ -48,34 +48,34 @@ img {
   background-color: #36f7c3;
 }
 .jumbotron h1  {
+  color: black;
   font-family: "Quicksand", serif;
   font-weight: bold;
   text-align: center;
-  color: black;
 }
 .jumbotron p {
-  text-align: center;
   color: black;
+  text-align: center;
 }
 
 /*This section styles the "About Me" section*/
 .about h2 {
-    border-bottom: 2px solid #EB7B59;
-    margin-bottom: 30px;
+  border-bottom: 2px solid #EB7B59;
+  margin-bottom: 30px;
 }
 .about h3 {
-  margin-top: 0;
+  border-bottom: 1px solid #EB7B59;
   color: white;
+  margin-top: 0;
   margin-left: 10%;
   margin-right: 10%;
-  border-bottom: 1px solid #EB7B59;
 }
 .about li {
   color: white;
 }
 .about p {
-  margin-bottom: 30px;
   color: white;
+  margin-bottom: 30px;
   margin-left: 15%;
   margin-right: 15%;
 }
@@ -95,33 +95,33 @@ img {
   margin-bottom: 30px;
 }
 .portfolio {
-  margin: 0 auto;
   display: flex;
+  margin: 0 auto;
 }
 .project {
-  width: 40%;
   background-color: white;
   border-radius: 3px;
+  float: left;
   margin-bottom: 15px;
   margin-right: 15px;
   margin-left: 15px;
-  float: left;
+  width: 40%;
 }
 .project h3 {
-  text-align: center;
   margin-left: 15px;
   margin-right: 15px;
+  text-align: center;
 }
 .project h4 {
   margin-left: 15px;
   margin-right: 15px;
 }
 .project img {
-  display: block;
   border-radius: 0;
-  margin: 20px auto;
   border: 1px solid gray;
   box-shadow: 1px 1px 1px gray;
+  display: block;
+  margin: 20px auto;
 }
 .project li {
   color: black;
@@ -131,9 +131,9 @@ img {
   margin-right: 15px;
 }
 .btn {
+  background-color: #CF4647;
+  border-radius: 0 0 3px 3px;
+  border: 1px solid #CF4647;
   display: block;
   margin: 0;
-  border-radius: 0 0 3px 3px;
-  background-color: #CF4647;
-  border: 1px solid #CF4647;
 }
