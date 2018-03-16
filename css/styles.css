@@ -1,7 +1,6 @@
 body {
   background: url("../img/spiration-dark/spiration-dark.png") repeat;
 }
-
 h2  {
   color: white;
   font-family: "Quicksand", serif;
@@ -124,6 +123,7 @@ img {
   width: 40%;
 }
 .project h3 {
+  color: black;
   margin-left: 15px;
   margin-right: 15px;
   text-align: center;
