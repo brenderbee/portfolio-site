@@ -69,8 +69,12 @@ img {
   text-align: center;
 }
 .project h4 {
-  margin-left: 10px;
+  margin-left: 15px;
 }
 .project p {
-  margin-left: 10px;
+  margin-left: 15px;
+}
+.btn {
+  margin-left: 15px;
+  margin-bottom: 15px;
 }
