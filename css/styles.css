@@ -69,7 +69,8 @@ img {
 
 /*This section styles the project section*/
 .project-list {
-
+  margin: 0 auto;
+  overflow: hidden;
 }
 .project-list h2 {
   border-bottom: 1px solid #CF4647;
