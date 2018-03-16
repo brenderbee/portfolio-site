@@ -61,13 +61,13 @@ img {
 /*This section styles the "About Me" section*/
 .about h2 {
     border-bottom: 2px solid #EB7B59;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
 }
 .about h3 {
   margin-top: 0;
   color: white;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
   border-bottom: 1px solid #EB7B59;
 }
 .about li {
@@ -76,12 +76,12 @@ img {
 .about p {
   margin-bottom: 30px;
   color: white;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 .about ul {
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: 15%;
+  margin-right: 15%;
   margin-bottom: 30px;
 }
 
@@ -92,7 +92,7 @@ img {
 }
 .project-list h2 {
   border-bottom: 2px solid #CF4647;
-  margin-bottom: 15px;
+  margin-bottom: 30px;
 }
 .portfolio {
   margin: 0 auto;
