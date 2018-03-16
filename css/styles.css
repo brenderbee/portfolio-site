@@ -38,6 +38,7 @@ img {
   height: auto;
   padding: 0;
   width: 80%;
+  margin-bottom: 10%;
 }
 .quote {
   font-style: italic;
@@ -86,8 +87,6 @@ img {
 }
 
 /*This section styles the project section*/
-
-
 .project-list {
   margin: 0 auto;
   overflow: hidden;
@@ -97,7 +96,8 @@ img {
   margin-bottom: 30px;
 }
 .portfolio {
-  display: flex;
+  display: flex; /* Note: I have no idea why this works! */
+  flex-direction: row;
   margin: 0 auto;
 }
 .project {
@@ -138,7 +138,7 @@ img {
   border-radius: 0 0 3px 3px;
   border: 1px solid #CF4647;
   display: block;
-  margin: 0;
+  align-self: flex-end;/* Note: I had to look up this solution, but I have no idea why it is not working. */
 }
 
 @media screen and (max-width: 768px) {
