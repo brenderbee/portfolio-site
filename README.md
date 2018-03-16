@@ -10,7 +10,7 @@ _This is a portfolio landing page for Epicodus Intro to Programming Week 1 Code 
 
 ## Setup/Installation Requirements
 
-* _Clone from github: https://github.com/brenderbee/portfolio-site.git _
+* _Clone from github: https://github.com/brenderbee/portfolio-site.git_
 * _Open and edit files in Atom or other text editor._
 * _Open index.html in web browser._
 
