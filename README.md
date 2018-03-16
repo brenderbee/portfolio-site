@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a portfolio landing page for Epicodus Intro to Programming Week 1 Code Review. This site is created using bootstrap.css v3.3.7, htmk and css. This site will demonstrate all skills learned in week 1._
+_This is a portfolio landing page for Epicodus Intro to Programming Week 1 Code Review. This site is created using bootstrap.css v3.3.7, htmk and css. This site will demonstrate all skills learned in week 1. This site uses the color palette "colorful banaani" by svartedauden from colourlovers.com_
 
 ## Setup/Installation Requirements
 
