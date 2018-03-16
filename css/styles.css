@@ -1,11 +1,7 @@
 body {
-  background-color: #524656;
+  background-color: #A7C5BD;
 }
-h1  {
-  font-family: "Quicksand", serif;
-  font-weight: bold;
-  text-align: center;
-}
+
 h2  {
   font-family: "Quicksand", serif;
   font-weight: bold;
@@ -31,7 +27,7 @@ img {
   display: block;
   margin: 0 auto;
   width: 50%;
-  border: 2px solid #524656;
+  border: 2px solid white;
   border-radius: 100%;
 }
 /*This section styles the container for all of the content*/
@@ -43,11 +39,20 @@ img {
 .quote {
   font-style: italic;
 }
+
+/*This section styles jumbotron*/
 .jumbotron {
-  background-color: #A7C5BD;
+  background-color: #524656;
+}
+.jumbotron h1  {
+  font-family: "Quicksand", serif;
+  font-weight: bold;
+  text-align: center;
+  color: white;
 }
 .jumbotron p {
   text-align: center;
+  color: white;
 }
 
 /*This section styles the "About Me" section*/
