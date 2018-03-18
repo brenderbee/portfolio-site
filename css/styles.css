@@ -169,6 +169,15 @@ img {
   }
 }
 @media screen and (max-width: 480px) {
+  .container .jumbotron {
+    border-radius: 0;
+  }
+  .container {
+    width: 100%;
+  }
+  .project {
+    margin-bottom: 30px;
+  }
   .project img {
     border-radius: 0;
     border-left: none;
