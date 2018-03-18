@@ -179,6 +179,10 @@ img {
   .container {
     width: 100%;
   }
+  .portfolio {
+    margin-left: 15%;
+    margin-right: 15%;
+  }
   .project {
     margin-bottom: 30px;
   }
