@@ -160,6 +160,22 @@ img {
   margin-top: auto;
 }
 
+.light-theme {
+  background: url("../img/spiration-light/spiration-light.png") repeat;
+}
+
+.light-theme h1, .light-theme h2, .light-theme h3, .light-theme h4, .light-theme p, .light-theme li {
+  color: black;
+}
+
+.light-theme .container {
+      background-color: white;
+}
+
+.light-theme .project {
+  background-color: #f2f2f2;
+}
+
 @media screen and (max-width: 768px) {
   .portfolio {
     display: block;
@@ -174,6 +190,7 @@ img {
     margin-bottom: 30px;
   }
 }
+
 @media screen and (max-width: 480px) {
   .container .jumbotron {
     border-radius: 0;
