@@ -9,8 +9,8 @@
 _This is a portfolio landing page for Epicodus Intro to Programming Week 1 Code Review. This site is created using bootstrap.css v3.3.7, htmk and css. This site will demonstrate all skills learned in week 1._
 
 ## Setup/Installation Requirements
-
-* _Clone from github: https://github.com/brenderbee/portfolio-site.git_
+* _View site at github: https://github.com/brenderbee/portfolio-site.git_
+* _Clone from github: https://github.com/brenderbee/portfolio-site_
 * _Open and edit files in Atom or other text editor._
 * _Open index.html in web browser._
 
